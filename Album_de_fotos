@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>HINO DO SANTOS</title>
+    </head>
+    <body>
+        <img src="almoco.avif" alt="almoco" style="width: 100%;">
+        <img src="wat.avif" alt="montanha e um homem do nada" style="width:
+        33%;">
+        <img src="elefantenho.avif" alt="elefantenho" style="width:
+        33%;">
+        <img src="gorezinha.avif" alt="Menina" style="width:
+        100%;">
+    </body>
+</html>

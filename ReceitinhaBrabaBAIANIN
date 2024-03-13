@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Alfajor - Galo</title>
+        <style>
+        body{
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+    
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em;
+        }
+    
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #444;
+            padding: 0.5em;
+        }
+    
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 15px;
+        }
+    
+        section {
+            padding: 20px;
+        }
+    
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        </style>
+        </head>
+    <body>
+        <nav>
+            <h1><a href="#Receitas">Receitas do Galo</a></h1>
+        </nav>
+        <section id="Receitas">
+            <h3>Receitas</h3>
+            <ul>
+                <li>Macarrão</li>
+                <li>Alfajor</li>
+                <li>lasanha-vegetariana</li>
+            </ul>
+        </section>
+        <hr>
+        <h2> Macarrão com Cheddar </h2>
+        Delicioso Macarrão Galo Mini Parafuso com <br> molho cremoso de queijo cheddar. <br>
+        <img src="galo-imagem-receitas-macarrao-com-cheddar-1-md.webp" alt="Macarrão">
+        <h2> Modo de preparo </h2>
+            <li> 1 Coloque a manteiga na panela e deixe derreter. Acrescente o macarrão e junte o leite quente. </li>
+            <li> 2 Rale o queijo parmesão. Acrescente ao macarrão e junte o cheddar. Tempere com pimenta-do-reino a gosto. Se precisar, corrija o sal. </li>
+            <li> 3 Para uma textura mais cremosa, acrescente um pouco mais de leite. </li>
+            <br>Receita: <br>
+            <li> <a href="https://receitasgalo.com.br/receita/macarrao-com-cheddar">Toma macarrão do brabo ta? </a> </li>
+
+        <h2> Alfajor </h2>
+        Doce tipo argentino com recheio de doce de leite, <br>
+        preparado com Biscoito Galo Recheado. <br>
+        <img src="galo-imagem-receitas-alfajor-1-md.webp" alt="doce - Alfajor">
+        <h2> Modo de preparo</h2>
+            <li> 1 Pegue os biscoito e abra em duas partes e recheie com doce de leite. </li>
+            <li> 2 Derreta o chocolate e banhe os alfajores. Coloque sobre o papel manteiga e leve para gelar para gelar até que o chocolate endureça. </li>
+            
+            <br>Receita: <br>
+            <li> <a href="https://youtu.be/OZScY4mSjow">Toma docinho do brabo ta?</a> </li>
+
+        <h2> Lasanha Vegetariana</h2>
+        Delícia do dia: lasanha vegetariana com Massa <br>
+        para Lasanha GALO. Nessa receita tem <br>
+        abobrinha pra trazer ainda mais suculência. <br>
+        <img src="galo-imagem-receitas-lasanha-vegetariana-1-md.webp" alt="LASANHA">
+        <h2> Modo de preparo</h2>
+            <li> 1 Coloque a manteiga na panela e deixe derreter. Acrescente o macarrão e junte o leite quente.</li>
+            <li> 2 Rale o queijo parmesão. Acrescente ao macarrão e junte o cheddar. Tempere com pimenta-do-reino a gosto. Se precisar, corrija o sal.</li>
+            <li> 3 Para uma textura mais cremosa, acrescente um pouco mais de leite. </li>
+        
+            <br>Receita: <br>
+            <li> <a href="https://receitasgalo.com.br/receita/lasanha-vegetariana">Toma lasanha braba ta?</a> </li>
+
+            
+
+            <nav>
+                <h3><a href="#contato">Contato</a></h3>
+            </nav>
+        
+            <section id="contato">
+                <h3>Contato</h3>
+                <p>Entre em contato conosco:</p>
+                <p><li>contato@receitasgalo.com</li></p>
+            </section>
+            
+        </body>
+        </html>
